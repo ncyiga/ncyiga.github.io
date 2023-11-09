@@ -1,0 +1,334 @@
+Welcome to use the products and services we offer. When you use our products, we may collect and use your relevant information. We are committed to improving the transparency of information processing, enhancing your convenience of information management, and ensuring the security of your information and communications.
+
+We hope that you will read the "Game User Privacy Policy" (hereinafter referred to as "this policy") carefully to learn more about how we collect and use information, so that you can better understand our services and make appropriate choices. We will update and review this policy from time to time, so the relevant
+Measures are subject to change and we ask that you check this page regularly to ensure you are aware of our policy. If you have any questions about this policy and related matters, please contact us.
+
+
+
+ 
+
+This policy mainly explains to you the following information:
+
+1. Information we collect
+
+2. How we use the collected information
+
+3. How we use cookies and related technologies
+
+4. Data Sharing and Disclosure
+
+5. Our protection and processing of your information
+
+6. How do you manage your own information?
+
+7. Location and period of storage of information
+
+8. Information security
+
+9. Your rights
+
+10. Protection of minors
+
+11. Scope of application
+
+12. Changes
+
+13. Contact us
+
+ 
+
+1. Information we collect
+
+We only collect information necessary to implement product functions based on the principles of legality, legitimacy and necessity.
+
+1.1 Information you actively provide when using our services
+
+1.1.1 The information you filled in when registering your account. For example, the nickname and mobile phone number you filled in when registering your account.
+
+1.1.2 Information you upload when using the service. For example, the avatar you upload and the photos you share when using games or chatting.
+
+1.1.3 Information you submit through our customer service or when participating in events organized by us. For example, the questionnaire you fill out when participating in our online activities may include your name, phone number, home address and other information.
+
+Some of our services may require you to provide specific personal sensitive information to implement specific functions. If you choose not to provide such information, you may not be able to use specific functions in the service normally, but this will not affect your use of other functions in the service. If you voluntarily provide your personal sensitivity
+By collecting sensitive information, you agree that we will process your sensitive personal information in accordance with the purposes and methods described in this policy.
+
+1.2 Information we obtain when you use the service
+
+1.2.1 Log information. When you use our services, we may automatically collect relevant information and store it as service log information.
+
+1.2.1.1 Device information. For example, device model, operating system version, unique device identifier, battery, signal strength and other information.
+
+1.2.1.2 Software information. For example, software version number, browser type. To ensure the security of the operating environment or as needed to provide services, we collect information about the mobile applications and other software you use.
+
+1.2.1.3 IP address.
+
+1.2.1.4 Service log information. For example, the information you search for and view when using our services, service failure information, referral URLs and other information.
+
+1.2.1.5 Communication log information. For example, the accounts you have communicated with when using our services, the time and duration of communication.
+
+1.2.2 Location information. When you use location-related services, we may record the location information of your device in order to provide you with relevant services.
+
+1.2.2.1 When you use the service, we may obtain your geographical location information through IP address, GPS, WiFi or base stations;
+
+1.2.2.2 The information you or other users provide when using the service may contain your geographical location information, for example, the account information you provide may contain your region information, and the photos shared by you or others may contain geographical tag information. ;
+
+1.2.3 Other relevant information. In order to help you better use our products or services, we will collect relevant information. For example, the friend list, group list information, and voiceprint feature value information we collect. To ensure that you can connect with people you know when using our services
+, if you choose to turn on the import address book function, we may encrypt the names and phone numbers of your contacts and only collect the encrypted information.
+
+1.3 Information shared by other users contains your information. For example, photos posted or videos shared by other users may contain your information.
+
+1.4 Information obtained from third-party partners We may obtain information generated or shared by you when using third-party partner services. For example, when you log in using a third-party partner service WeChat or QQ account, we will obtain information about your use of the third-party partner service
+Login name and login time to facilitate your authorization management. Please carefully read the user agreement or privacy policy of the third-party partner service.
+
+2. How we use the collected information
+
+2.1 We strictly abide by the provisions of laws and regulations and our agreements with users, and use the collected information for the following purposes. If we use your information beyond the following purposes, we will explain it to you again and obtain your consent.
+
+--IP address
+
+IP address is commonly used identification information in network communications. The server will record this identification during your login process to maintain and improve our products and services and improve the security of the system and user accounts. For example: establishing network communications with you such as downloads, in-product requests, etc.; identifying
+Identify your region in order to provide personalized services; determine the consistency of your login behavior to ensure the security of your account. Our use of IP addresses is based on our contractual obligations to you.
+
+--Device Information
+
+Device information such as device model, wifi status, operating system, device Android ID, etc. can help us better understand the device conditions on which you experience product services. When the SDK initializes or opens the application, we use your device information to troubleshoot the cause of the crash, reduce the crash situation, and continuously
+Improve the quality of our products and services. For example: counting device suitability; providing feedback and solving faults you encounter when experiencing product services; judging the consistency of your login behavior to ensure the security of your account; obtaining device settings through the crash capture tool xcrash when a crash occurs.
+Save device information such as device model/operating system to the local crash file of the phone to troubleshoot and resolve crash situations and improve the product. Our use of device information is based on our contractual obligations to you.
+
+--login information
+
+Your mobile phone number, QQ account, WeChat account, nickname, avatar and other data can be used as identification information for your registration and login account. When you log in to your account, we will provide the corresponding "one-click authorization login" service based on the login method you choose to ensure that you
+Convenient and fast. And when you bind your mobile phone, log in and bind your account, cancel your account, change your youth mode password, etc., we provide necessary identity verification services to improve account security.
+
+--Identity Information
+
+Your real name and ID number are information you choose to upload independently. According to national regulations, you need to submit your real-name information during the anti-addiction process. We collect this information for reporting and activate the anti-addiction system based on this information.
+
+To ensure the security of the Service and help us better understand how our Application is running, we may record relevant information, such as how often you use the Application, failure information, overall usage, performance data, and the origin of the Application. we won't take me
+The information we store in our analytics software is combined with the personally identifiable information you provide within the application.
+
+2.2 In order to ensure the realization of relevant functions of the APP, we use the capabilities and services provided by the following third-party service providers in the form of SDK. The following lists the authorized partners of all services, and provides the privacy policy link or official website link of the third party. If in doubt, we recommend
+You read the third party’s privacy policy or visit the official website to learn more
+
+
+2.3 The services and game data we provide will also be stored in your mobile phone. Therefore, when you are experiencing the game, we may obtain storage permissions from you. If you refuse to authorize the provision, you will not be able to use the relevant functions, but it will not affect your normal use of other functions. to support row
+The team promptly reminds you that you can manually set the floating window permissions; if you do not turn on the floating window permissions, it will not affect your ability to queue up and wait for the game.
+
+2.4 You can log in to your game account to operate on various functional areas of the game platform and use voice and text chat services. According to relevant national laws and regulations, when you log in to your game account to comment, post and reply, as well as use voice and text chat services, I
+We need you to provide your ID number and bind it to your game account, otherwise you will not be able to use the above functions.
+
+2.5 If you post pictures, texts or videos on our game platform, additional services based on photo album (picture library/video library) access and upload of pictures/videos: You can use this function to upload your photos/pictures/videos, To achieve the function of publishing photos/pictures/videos, and
+Use other users to share photos/pictures and other functions; if you use the voice function on our game platform, you need to obtain your microphone usage permission (see the SDK instructions for details).
+
+If you refuse to provide the above permissions and content, it will only prevent you from using this function, but it will not affect your normal use of other functions of the product and/or service.
+
+3. How we use cookies and related technologies
+
+We or our third-party partners may collect your information by placing secure cookies and related technologies in order to provide you with a more personalized user experience and services. We will strictly require third-party partners to comply with the relevant provisions of this policy.
+
+You can also manage cookies through your browser settings. However, please note that if you disable cookies, you may not be able to enjoy the best service experience, and some services may not work properly.
+
+4. Data Sharing and Disclosure
+
+4.1 Share
+
+In order to provide sharing functions, our products integrate Umeng+SDK. The SDK will collect your device identification and the social account you need to share. In order to provide you with one-click sharing service, our product integrates Umeng+ U-Share SDK and will collect your device identification information (such as
+IMEI/android ID/IDFA, etc.) and the social account public information you need to share in order to complete the one-click sharing service. For the security of your information, we have made data security and confidentiality agreements with third-party SDK service providers. These companies will strictly abide by our data privacy.
+and safety requirements. We will not share your personally identifiable information with them without your consent.
+In addition, there are several situations:
+
+4.1.1 Sharing with explicit consent: After obtaining your explicit consent, we will share your personal information with other parties.
+
+4.1.2 We may share your personal information externally in accordance with laws and regulations, or in accordance with the mandatory requirements of government authorities.
+
+4.1.3 Sharing with our affiliated companies: Your personal information may be shared with our affiliated companies. We will only share necessary personal information and subject to the purposes stated in this policy. If the affiliated company wants to change the purpose of processing personal information, it will ask for your permission again.
+Authorized consent.
+
+4.1.4 Sharing with authorized partners: Only to achieve the purposes stated in this policy, some of our services will be provided by authorized partners. We may share some of your personal information with partners to provide better customer service and user experience. We will only
+Share your personal information for legal, legitimate, necessary, specific and clear purposes, and only share the personal information necessary to provide services. Our partners have no right to use the shared personal information for any other purpose.
+
+4.1.5 To achieve the purposes described in the "How we use the collected information" section of Article 2 of this policy.
+
+4.1.6 To perform our obligations and exercise our rights in this Policy or other agreements we have reached with you.
+
+4.1.7 Maintain and improve our services. We may share your information with partners and other third parties to help us provide you with more targeted and improved services.
+
+4.1.8 To the extent permitted by laws and regulations, in order to comply with the law, protect us and our affiliates or partners, you or other users or the public interests, property or safety from damage, such as to prevent fraud and other illegal activities and reduce credit risk etc. we may
+Share information with other companies or organizations.
+
+4.1.9 Assist in handling disputes or controversies between you and others in response to your legitimate needs.
+
+Except for the above situations and sharing functions, we will not share your personal information with any other company, organization or individual, and will only share data for legal, legitimate, necessary, specific and clear purposes. With the companies, organizations and individuals with whom we share information, we will
+Sign a strict confidentiality agreement requiring them to handle information in accordance with our instructions, this policy and any other relevant confidentiality and security measures.
+
+4.2 Disclosure
+
+We will only disclose your information under the following circumstances:
+
+4.2.1 Prerequisites for safety protection measures that comply with industry standards;
+
+4.2.2 With your explicit consent, disclose the information specified by you according to your needs;
+
+4.2.3 When it is necessary to provide your information in accordance with the requirements of laws, regulations, mandatory administrative enforcement or judicial requirements, we may disclose your information based on the required information type and disclosure method. Subject to compliance with laws and regulations, when we receive the above disclosure
+When requesting information, we will require the recipient to issue corresponding legal documents, such as a subpoena or investigation letter.
+
+5. Our protection and processing of your information
+
+5.1 Data security technical measures
+
+5.1.1 We will adopt security protection measures that comply with industry standards, including establishing reasonable system specifications and security technologies to prevent your information from unauthorized access, use, modification, and avoid data damage or loss;
+
+5.1.2 The network service adopts a variety of encryption technologies, such as SSL, TLS and other encryption technologies to protect your information;
+
+5.1.3 and isolate through isolation technology;
+
+5.1.4 When using information, such as information display and information correlation calculation, we will use a variety of data desensitization technologies to enhance the security of information in use. Strict data access control and multi-identity authentication technology are used to protect information and prevent data from being used illegally.
+
+5.2 Other security measures taken to protect information
+
+5.2.1 Manage the storage and use of standardized information by establishing a data classification and grading system, data security management specifications, and data security development specifications;
+
+5.2.2 Conduct comprehensive security control of data through information contact confidentiality agreements, monitoring and auditing mechanisms;
+
+5.2.3 Strengthen safety awareness. We will also hold security and privacy protection training courses to enhance employees’ awareness of the importance of information protection.
+
+5.3 Only necessary personnel are allowed to know this information, and the personnel who know it are guaranteed not to record or save it.
+
+Strict access control and monitoring mechanisms have been set up for this purpose. We also require all persons who may have access to your information to fulfill corresponding confidentiality obligations. Failure to fulfill these obligations will result in legal liability.
+
+5.4 We will take all reasonably practicable measures to ensure that irrelevant information is not collected.
+
+5.5 We will try our best to ensure or guarantee the security of any information you send to us.
+
+If our physical, technical, or management protection facilities are damaged, resulting in unauthorized access, public disclosure, tampering, or destruction of information, resulting in damage to your legitimate rights and interests, we will bear corresponding legal liability.
+
+5.6 How to deal with security incidents
+
+5.6.1 If you need to communicate or provide services with other parties, you will inevitably have to disclose your information to other parties, such as mobile phone number, email address, etc. Please protect your information properly and only disclose your information to other parties when necessary. provided by others;
+
+5.6.2 In order to deal with possible risks such as information leakage, damage and loss, we have formulated a number of systems to clarify the classification of security incidents and security vulnerabilities and the corresponding processing procedures. We have also established a dedicated emergency response team for security incidents.
+According to the requirements of the regulations, launch security plans for different security incidents, stop losses, analyze, locate, formulate remedial measures, and cooperate with relevant departments to combat;
+
+5.6.3 If a safety incident unfortunately occurs, we will promptly inform you in accordance with the requirements of laws and regulations: the basic situation of the incident, the disposal plans we have taken or will take, and possible situations. You can prevent and reduce the risk on your own. Suggestions on risks and remedies for you
+case etc. At the same time, we must proactively report information security incidents and their handling in accordance with the requirements of regulatory authorities;
+
+5.6.4 Due to technical limitations and risk prevention limitations, even if we have strengthened security measures as much as possible, we cannot always guarantee 100% information security. So you need to understand that there are situations and problems that may occur due to circumstances beyond our control.
+
+5.7 If you log out of our game account, the comments, posts, replies and other information you posted through the game account will also be deleted.
+
+6. How do you manage your own information?
+
+6.1 You can access, modify and delete the registration information and other personal information you provided during the use of our services, or you can contact us according to the notice guidelines. The scope and manner in which you can access, modify and delete your personal information will depend on the specific services you use. example
+For example, if you want to stop sharing your geolocation information when using geolocation-related services, you can stop sharing through the mobile phone positioning shutdown function, software and hardware service providers and communication service providers. It is recommended that you read the relevant guidelines carefully. .
+
+6.2 We will collect and use your information only to implement the functions of our products or services as described in this policy. If you find that we collect and use your personal information in violation of laws, administrative regulations or the agreement between the two parties, you can ask us to delete it. If you send
+If there is an error in your personal information collected and stored by us, you can also ask us to correct it. Please contact us via the contact information listed in this policy.
+
+6.3 When you access, modify and delete relevant information, we may ask you to perform identity verification to ensure the security of your account.
+
+6.4 Please understand that due to technical limitations, legal or regulatory requirements, we may not be able to meet all your requirements, and we will respond to your requests within a reasonable period of time.
+
+7. Location and period of storage of information
+
+7.1 Where information is stored
+
+In principle, the personal information we collect and generate within the country will be stored within the country.
+
+We may provide products or services through resources and servers around the world, which means that, with your authorization and consent, your personal information may be transferred to overseas jurisdictions in the country/region where you use the products or services, or subject to access from these jurisdictions.
+
+Overseas jurisdictions may have different personal information protection laws. We will encrypt the transmission of information and make commercially reasonable efforts to urge third parties to comply with their applicable laws and regulations and the confidentiality and security measures agreed upon in the agreement when using your personal information. .
+
+7.2 Period for which information is stored
+
+Generally speaking, we only retain your personal information for the minimum period necessary to fulfill the purpose. However, under the following circumstances, we may change the storage time of personal information in order to comply with legal requirements:
+
+7.2.1 To comply with applicable laws, regulations and other relevant provisions;
+
+7.2.2 To comply with court judgments, rulings or other legal procedures;
+
+7.2.3 To comply with the requirements of relevant government agencies or legally authorized organizations;
+
+7.2.4 We have reason to believe that we need to comply with relevant laws and regulations;
+
+7.2.5 Reasonably necessary purposes to implement relevant service agreements or this policy, safeguard social and public interests, and protect the personal and property safety or other legitimate rights and interests of our customers, us or our affiliates, other users or employees.
+
+When our products or services cease operations, we will notify you through push notifications, announcements, etc., and delete or anonymize your personal information within a reasonable period.
+
+8. Information security
+
+We provide appropriate security safeguards for your information to prevent loss, improper use, unauthorized access or disclosure.
+
+8.1 We strictly abide by laws and regulations to protect users’ communication confidentiality.
+
+8.2 We will use various security protection measures within a reasonable security level to ensure the security of information. For example, we use encryption technology (such as TLS, SSL), anonymization and other means to protect your personal information.
+
+8.3 We establish special management systems, processes and organizations to ensure information security. For example, we strictly limit who can access information, require them to comply with confidentiality obligations, and conduct reviews.
+
+8.4 If a security incident such as personal information leakage occurs, we will activate an emergency plan to prevent the security incident from expanding, and inform you through push notifications, announcements, etc.
+
+9. Your rights
+
+In accordance with relevant laws, regulations, standards, and common practices in other countries and regions, we guarantee that you can exercise the following rights with respect to your personal information:
+
+9.1 Access to your personal information
+
+You have the right to access your personal information, except for exceptions provided by laws and regulations.
+
+9.2 Controlling your personal information
+
+You can query and manage the personal information under your account at any time. The account name is your important online identity. For security and identification reasons, it cannot be changed after registration.
+
+9.3 Delete your personal information
+
+We will only collect and use your information in accordance with this policy to implement the functions of our products or services. If you find that we collect and use your personal information in violation of laws, administrative regulations or the agreement between the two parties, you can ask us to delete it. if you find me
+If there are errors in your personal information collected and stored by us, you can also ask us to correct it. Please contact us via the contact information listed in this policy.
+
+9.4 Change the scope of your authorization and consent
+
+Each business function requires some basic personal information to be completed (see paragraph 1 of this policy). You can access, modify and delete the registration information and other personal information you provide while using our services. The scope of your access, modification and deletion of personal information
+and methods will depend on the specific service you use. For example, if you want to stop sharing your geolocation information when using geolocation-related services, you can stop sharing through the mobile phone positioning shutdown function, software and hardware service providers, and communications service providers.
+
+9.5 Respond to your above request
+
+For security reasons, you may be required to provide a written request or otherwise prove your identity. We may ask you to verify your identity before processing your request. We will respond within a reasonable time frame. If you are not satisfied, you can contact customer service or follow the "Travel Guide"
+It will be handled in the manner specified in the Game User Service Agreement.
+
+In principle, we do not charge fees for your reasonable requests, but for repeated requests that exceed reasonable limits, we will charge a certain cost depending on the circumstances. For those that are unnecessarily repetitive and require excessive technical means (for example, the need to develop new systems or fundamentally change existing
+We may refuse requests that are not in common practice), would put the legitimate rights and interests of others at risk, or are highly impractical (for example, involving information stored on backup tapes).
+
+9.6 In the following circumstances, we will not be able to respond to your request in accordance with legal and regulatory requirements:
+
+9.6.1 Directly related to national security and national defense security;
+
+9.6.2 Directly related to public security, public health, and major public interests;
+
+9.6.3 Directly related to criminal investigation, prosecution, trial and judgment execution;
+
+9.6.4 There is sufficient evidence to show that you have subjective malice or abused your rights;
+
+9.6.5 Responding to your request will cause serious damage to the legitimate rights and interests of you or other individuals or organizations;
+
+9.6.6 Involving business secrets;
+
+9.6.7 Other situations where we have reasonable grounds to refuse.
+
+10. Protection of minors
+
+We attach great importance to the protection of minors' personal information. According to relevant laws and regulations, if you are a minor under the age of 18, we recommend that you obtain the consent of your parent or legal guardian before using our services. If you are the supervisor of a minor
+Guardians, when you have questions about the personal information of the minors under your guardianship, please contact us through the contact information.
+
+11. Scope of application
+
+This policy applies to all our services. However, some services have their own specific privacy guidelines/statements that describe more specifically how we process your information in that service. If there is any inconsistency between this policy and the privacy guidelines/statements of specific services, please
+Subject to that specific privacy guidelines/statement. Please note that this policy does not apply to services provided by other companies or individuals. For example, you use your WeChat account to log in to services provided by other companies or individuals.
+
+Your use of such third-party services is subject to their privacy policies (not this policy), and you need to read the contents of their policies carefully.
+
+12. Changes
+
+This policy will take effect immediately upon release. We will update and revise this policy from time to time in accordance with national laws and regulations. We will notify you by prominently placing a prompt on the page or making a system announcement before the changes take effect. If you do not accept the revised terms, you should immediately
+Stop using our products and services. If you continue to use this service after changes to this policy, you will be deemed to have accepted all revised terms.
+
+13. Contact us
+
+If you have complaints or reports about network information security, or if you have any questions, comments or suggestions about this policy and related matters, please contact customer service.
